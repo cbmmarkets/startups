@@ -1,4 +1,4 @@
 startups
 ========
 
-this is to test what this website is about
+this is to test out what this website is all about/
